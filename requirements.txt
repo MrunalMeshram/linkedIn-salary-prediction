@@ -1,5 +1,5 @@
 flask
 pandas
 psycopg2
-scikit-learn=1.4.2
+scikit-learn==1.4.2
 joblib
