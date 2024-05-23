@@ -1,1 +1,1 @@
-# linkdn-salary-prediction
+# linkeIdn-salary-prediction
